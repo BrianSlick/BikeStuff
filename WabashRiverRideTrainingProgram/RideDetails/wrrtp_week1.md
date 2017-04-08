@@ -4,12 +4,12 @@ Welcome to the [Wabash River Ride](http://wrcc-in.org/wp/?page_id=929) Training 
 
 ----
 
-**Date / Time**: May 20, 11:00 AM
-**Location**: [Celery Bog](https://mapsengine.google.com/map/edit?mid=zV7CIYfA0Jks.k1UqM1eQ3X4s)
-**Speed**: Low Novice (~9 mph)
-**Distance**: 3 miles
-**Duration**: ~15 minute discussion + <30 minutes ride
-**Ride Leader**: Brian Slick
+* **Date / Time**: Saturday, May 20, 11:00 AM
+* **Location**: [Celery Bog](https://mapsengine.google.com/map/edit?mid=zV7CIYfA0Jks.k1UqM1eQ3X4s)
+* **Speed**: Low Novice (~9 mph)
+* **Distance**: 3 miles
+* **Duration**: ~15 minute discussion + <30 minutes ride
+* **Ride Leader**: Brian Slick
 
 Weather note: Rides will proceed in anything other than rain, snow, or crazy wind. Cancellations will be posted on the [club listserv](http://wrcc-in.org/wp/?page_id=89) by 9:00 AM if applicable. If need be - weather permitting - we'll try again on Sunday, same time, same place.
 
