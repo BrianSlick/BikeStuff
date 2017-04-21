@@ -10,6 +10,7 @@ Welcome to the [Wabash River Ride](http://wrcc-in.org/wp/?page_id=929) Training 
 * **Distance**: 11 miles
 * **Duration**: >1 hour
 * **Ride Leader**: Brian Slick
+* **Route**: [MapMyRide](https://www.mapmyride.com/routes/view/1516426519)
 
 Weather note: Rides will proceed in anything other than rain, snow, or crazy wind. Cancellations will be posted on the [club listserv](http://wrcc-in.org/wp/?page_id=89) by 9:00 AM if applicable. If need be - weather permitting - we'll try again on Sunday, same time, same place.
 
@@ -23,9 +24,9 @@ There is currently no program ride scheduled for July 4th weekend. If there is i
 
 If you have not attended previous weeks in the program, have no fear! You're still more than welcome to ride with us. You may want to ride previous routes - [Week 1](wrrtp_week1.md), [Week 2](wrrtp_week2.md), [Week 3](wrrtp_week3.md), [Week 4](wrrtp_week4.md) - on your own beforehand. The route we did in Week 5 and today is routinely offered on the club calendar as an 11-mile Novice ride.
 
-Route: [MapMyRide](https://www.mapmyride.com/routes/view/1516426519)
-
 ----
+
+####Venue & Misc
 
 There is ample parking at Kalberer soccer fields, and it has a public restroom that is typically open. We'll try to have some water on hand, but please bring any supplies you may need. It would be a good idea to bring a spare inner tube; Brian can carry lots of stuff, so even if you don't have a place for it, bring it anyway.
 

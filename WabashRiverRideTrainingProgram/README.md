@@ -9,8 +9,8 @@
 |4| Saturday, June 10, 11:00 AM | Celery Bog | 8 miles | [Click](RideDetails/wrrtp_week4.md) |
 |5| Saturday, June 17, 11:00 AM | Kalberer | 11 miles | [Click](RideDetails/wrrtp_week5.md) |
 |6| Saturday, June 24, 11:00 AM | Kalberer | 11 miles | [Click](RideDetails/wrrtp_week6.md) |
-|7| July 1 | No group ride currently scheduled |
-|8| Saturday, July 8, 10:00 AM | Kalberer | 14 miles | Coming Soon |
+|7| July 1 | No group ride currently scheduled | N/A | [Click](RideDetails/wrrtp_week7.md) |
+|8| Saturday, July 8, 10:00 AM | Kalberer | 14 miles | [Click](RideDetails/wrrtp_week8.md) |
 |9| Saturday, July 15, 10:00 AM | Kalberer | 17 miles | Coming Soon |
 |10| Saturday, July 22, 10:00 AM | Mayflower Mills | 21 miles | Coming Soon |
 |11| Saturday, July 29, 10:00 AM | Kalberer | 25 miles | Coming Soon |

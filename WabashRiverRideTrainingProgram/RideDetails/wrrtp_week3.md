@@ -10,6 +10,7 @@ Welcome to the [Wabash River Ride](http://wrcc-in.org/wp/?page_id=929) Training 
 * **Distance**: 6 miles
 * **Duration**: <1 hour
 * **Ride Leader**: Brian Slick
+* **Route**: [MapMyRide](https://www.mapmyride.com/routes/view/1502030023)
 
 Weather note: Rides will proceed in anything other than rain, snow, or crazy wind. Cancellations will be posted on the [club listserv](http://wrcc-in.org/wp/?page_id=89) by 9:00 AM if applicable. If need be - weather permitting - we'll try again on Sunday, same time, same place.
 
@@ -21,9 +22,9 @@ We will mostly cover familiar ground around Celery Bog, but this time it will be
 
 If you missed Weeks 1 or 2 (or both), no sweat! Come on out and join us anyway. If you have time to run the [week 1 route](wrrtp_week1.md) and [week 2 route](wrrtp_week2.md) on your own, please do so, but it is not a requirement, and similar to what we will do today.
 
-Route: [MapMyRide](https://www.mapmyride.com/routes/view/1502030023)
-
 ----
+
+####Venue & Misc
 
 There is ample parking at the Lilly Nature Center, and it has a public restroom that is typically open (but I can't promise that year-round). Your ride leader, Brian, drives a red Toyota RAV4 and rides a greenish Giant hybrid bike with a big rear bag and lots of yellow tape. We'll try to have some water on hand, but please bring any supplies you may need. It would be a good idea to bring a spare inner tube; Brian can carry lots of stuff, so even if you don't have a place for it, bring it anyway.
 
