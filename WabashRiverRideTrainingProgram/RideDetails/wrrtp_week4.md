@@ -4,22 +4,26 @@ Welcome to the [Wabash River Ride](http://wrcc-in.org/wp/?page_id=929) Training 
 
 ----
 
-* **Date / Time**: Saturday, May 20, 11:00 AM
+* **Date / Time**: Saturday, June 10, 11:00 AM
 * **Location**: [Celery Bog](https://mapsengine.google.com/map/edit?mid=zV7CIYfA0Jks.k1UqM1eQ3X4s)
 * **Speed**: Low Novice (~9 mph)
-* **Distance**: 3 miles
-* **Duration**: 15-30 minute discussion + <30 minutes ride
+* **Distance**: 8 miles
+* **Duration**: ~1 hour
 * **Ride Leader**: Brian Slick
 
 Weather note: Rides will proceed in anything other than rain, snow, or crazy wind. Cancellations will be posted on the [club listserv](http://wrcc-in.org/wp/?page_id=89) by 9:00 AM if applicable. If need be - weather permitting - we'll try again on Sunday, same time, same place.
 
 ----
 
-### Week 1
+### Week 4
 
-Our first ride will begin with a meet-n-greet, along with a brief discussion of club guidelines and behaviors. Then we'll explore some of the multi-use trails (sidewalks) that are available in the Celery Bog area. This will be an easy 3-mile loop. For those that might want to go farther, the ride leader will be available to repeat the loop. We should easily finish by lunch time.
+We will continue with our Celery Bog stomping grounds, but this time we're adding a big hill. We'll take a break or two if needed, but the goal will be to complete the route without stopping. As before, the ride leader will be available for extra distance for those that want it. We should finish by lunch time.
 
-Route: [MapMyRide](https://www.mapmyride.com/routes/view/1502001415)
+This will be our final ride on sidewalks. Next week we take to the streets!
+
+If you have not attended previous weeks in the program, have no fear! You're still more than welcome to ride with us. You may want to ride previous routes - [Week 1](wrrtp_week1.md), [Week 2](wrrtp_week2.md), [Week 3](wrrtp_week3.md) - on your own beforehand.
+
+Route: [MapMyRide](https://www.mapmyride.com/routes/view/1502042647)
 
 ----
 
