@@ -24,7 +24,7 @@ If you missed Weeks 1 or 2 (or both), no sweat! Come on out and join us anyway. 
 
 ----
 
-####Venue & Misc
+**Venue & Misc**
 
 There is ample parking at the Lilly Nature Center, and it has a public restroom that is typically open (but I can't promise that year-round). Your ride leader, Brian, drives a red Toyota RAV4 and rides a greenish Giant hybrid bike with a big rear bag and lots of yellow tape. We'll try to have some water on hand, but please bring any supplies you may need. It would be a good idea to bring a spare inner tube; Brian can carry lots of stuff, so even if you don't have a place for it, bring it anyway.
 

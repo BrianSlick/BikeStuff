@@ -26,6 +26,8 @@ If you have not attended previous weeks in the program, have no fear! You're sti
 
 ----
 
+**Venue & Misc**
+
 There is ample parking at Kalberer soccer fields, and it has a public restroom that is typically open. We'll try to have some water on hand, but please bring any supplies you may need. It would be a good idea to bring a spare inner tube; Brian can carry lots of stuff, so even if you don't have a place for it, bring it anyway.
 
 If you are not yet a member of the club ([please join!](http://wrcc-in.org/wp/?page_id=85)) and therefore not on the club listserv, feel free to send a note to (brianslick at mac dot com) if you have any questions beforehand, or wish to be notified of cancellations.
