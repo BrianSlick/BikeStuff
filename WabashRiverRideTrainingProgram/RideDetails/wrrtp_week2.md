@@ -1,6 +1,6 @@
 ## Wabash River Ride Training Program
 
-Welcome to the [Wabash River Ride](http://wrcc-in.org/wp/?page_id=929) Training Program! This program is aimed squarely at novice riders. So whether you are new (or returning) to cycling, new to club/group rides, or just generally don't go very fast, this program is for you!
+[Home](../README.md) | [1](wrrtp_week1.md) | Week 2 | [3](wrrtp_week3.md) | [4](wrrtp_week4.md) | [5](wrrtp_week5.md) | [6](wrrtp_week6.md) | [7](wrrtp_week7.md) | [8](wrrtp_week8.md) | [9](wrrtp_week9.md) | [10](wrrtp_week10.md) | [11](wrrtp_week11.md) | [12](wrrtp_week12.md) | [13](wrrtp_week13.md) | [14](wrrtp_week14.md)
 
 ----
 
@@ -20,7 +20,7 @@ Weather note: Rides will proceed in anything other than rain, snow, or crazy win
 
 If we have any new faces this week, then we'll repeat the brief discussion of club guidelines and behaviors from last week. Or if any questions popped up after the first week, happy to answer those. Otherwise, we'll hit the multi-use trails, exploring even more of the Celery Bog area. This will be a 6-mile route, in a figure 8 so we'll come back to the start point half-way through, for a brief rest. As before, the ride leader will be available for extra distance for those that want it. We should easily finish by lunch time.
 
-If you missed Week 1, no sweat! Come on out and join us anyway. If you have time to run the [week 1 route](wrrtp_week1.md) on your own, please do so, but it is not a requirement, and similar to what we will do today.
+If you missed Week 1, no sweat! Come on out and join us anyway. If you have time to run the Week 1 route on your own, please do so, but it is not a requirement, and similar to what we will do today.
 
 ----
 
