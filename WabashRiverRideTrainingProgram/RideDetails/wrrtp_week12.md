@@ -20,7 +20,7 @@ Weather note: Rides will proceed in anything other than rain, snow, or crazy win
 
 We'll be exploring the west side this week, and the focus week will be climbing! The Wabash River Ride has a number of hills, and we'll get a small sampling of that. To offset the climbing, we'll go a shorter distance. 
 
-If you have not attended previous weeks in the program, you're welcome to join us, but this will certainly be on the long side if you are a new rider. The club calendar will frequently have 7- and 11-mile routes for novices that you may want to try first. Alternatively, you're encouraged to try some of our previous routes on your own beforehand to build up your stamina.
+If you have not attended previous weeks in the program, you're welcome to join us, but this will probably be on the long side if you are a new rider. The club calendar will frequently have 7- and 11-mile routes for novices that you may want to try first. Alternatively, you're encouraged to try some of our previous routes on your own beforehand to build up your stamina.
 
 ----
 

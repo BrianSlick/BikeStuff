@@ -18,7 +18,7 @@ Weather note: Rides will proceed in anything other than rain, snow, or crazy win
 
 ### Week 13
 
-We will resume our search for more distance by repeating our trip to the Klein Brot Haus bakery, but we're going to add a little more distance each way. Don't panic about the distance - the first time we'll go 30 miles! Just think of it as two 15-mile rides separated by a lengthy break. And pastries. We won't repeat the exact route from before, we will cover some familiar roads.
+We will resume our search for more distance by repeating our trip to the Klein Brot Haus bakery, but we're going to add a little more distance each way. Don't panic about the distance - the first time we'll go 30 miles! Just think of it as two 15-mile rides separated by a lengthy break. And pastries. We won't repeat the exact route from before, but we will cover some familiar roads.
 
 If you have not attended previous weeks in the program, you're welcome to join us, but this will definitely be on the long side if you are a new rider. The club calendar will frequently have 7- and 11-mile routes for novices that you may want to try first. Alternatively, you're encouraged to try some of our previous routes on your own beforehand to build up your stamina.
 

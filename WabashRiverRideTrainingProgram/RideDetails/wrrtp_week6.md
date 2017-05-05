@@ -22,7 +22,7 @@ This week will be a repeat of last week. Our goal this time is to run the route 
 
 There is currently no program ride scheduled for July 4th weekend. If there is interest amongst participants, we may throw something together last minute. Otherwise, you are encouraged to repeat any of the routes we have already done. Try to push yourself somehow; go faster, go farther without stopping, etc. Also check out the club calendar to see what other rides might be available.
 
-If you have not attended previous weeks in the program, have no fear! You're still more than welcome to ride with us. You may want to ride previous routes - [Week 1](wrrtp_week1.md), [Week 2](wrrtp_week2.md), [Week 3](wrrtp_week3.md), [Week 4](wrrtp_week4.md) - on your own beforehand. The route we did in Week 5 and today is routinely offered on the club calendar as an 11-mile Novice ride.
+If you have not attended previous weeks in the program, have no fear! You're still more than welcome to ride with us. You may want to ride previous routes on your own beforehand. The route we did in Week 5 and today is routinely offered on the club calendar as an 11-mile Novice ride.
 
 ----
 

@@ -20,7 +20,7 @@ Weather note: Rides will proceed in anything other than rain, snow, or crazy win
 
 We're just going for more distance this week. The route is a combination of routes we have previously covered, so it's just a matter of sitting in the saddle that much longer. We'll aim for 1 break in the latter part of the ride.
 
-If you have not attended previous weeks in the program, you're welcome to join us, but this may be on the long side if you are a new rider. The club calendar will frequently have 7- and 11-mile routes for novices that you may want to try first. Alternatively, you're encouraged to try some of our previous routes on your own beforehand to build up your stamina: [Week 1](wrrtp_week1.md), [Week 2](wrrtp_week2.md), [Week 3](wrrtp_week3.md), [Week 4](wrrtp_week4.md), [Weeks 5/6](wrrtp_week5.md), [Week 8](wrrtp_week8.md).
+If you have not attended previous weeks in the program, you're welcome to join us, but this may be on the long side if you are a new rider. The club calendar will frequently have 7- and 11-mile routes for novices that you may want to try first. Alternatively, you're encouraged to try some of our previous routes on your own beforehand to build up your stamina.
 
 ----
 

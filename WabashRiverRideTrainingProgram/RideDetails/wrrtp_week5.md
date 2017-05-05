@@ -24,7 +24,7 @@ Our goal this week is simply to build some comfort with riding on the street, an
 
 This particular route is a favorite novice route of Dennis Figeruoa. So if you see an 11-mile novice route on the club calendar, it's probably this one.
 
-If you have not attended previous weeks in the program, have no fear! You're still more than welcome to ride with us. You may want to ride previous routes - [Week 1](wrrtp_week1.md), [Week 2](wrrtp_week2.md), [Week 3](wrrtp_week3.md), [Week 4](wrrtp_week4.md) - on your own beforehand.
+If you have not attended previous weeks in the program, have no fear! You're still more than welcome to ride with us. You may want to ride previous routes on your own beforehand.
 
 ----
 
