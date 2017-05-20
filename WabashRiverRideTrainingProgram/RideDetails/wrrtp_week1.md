@@ -4,7 +4,7 @@
 
 ----
 
-* **Date / Time**: Saturday, May 20, 11:00 AM
+* **Date / Time**: ~~Saturday, May 20~~ **Sunday, May 21**, 11:00 AM
 * **Location**: [Celery Bog](https://mapsengine.google.com/map/edit?mid=zV7CIYfA0Jks.k1UqM1eQ3X4s)
 * **Speed**: Low Novice (~9 mph)
 * **Distance**: 3 miles
@@ -13,6 +13,8 @@
 * **Route**: [MapMyRide](https://www.mapmyride.com/routes/view/1502001415)
 
 Weather note: Rides will proceed in anything other than rain, snow, or crazy wind. Cancellations will be posted on the [club listserv](http://wrcc-in.org/wp/?page_id=89) by 9:00 AM if applicable. If need be - weather permitting - we'll try again on Sunday, same time, same place.
+
+UPDATE: Saturday event has been postponed due to rain. We are currently aiming for Sunday, May 21.
 
 ----
 

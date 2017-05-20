@@ -13,7 +13,7 @@ The full schedule is listed below. Please send any questions to (brianslick at m
 | Week | Date | Location | Distance | Details |
 |:----:|:-----------:|:--------:|:--------:|:--------:|
 || May 13| **New Rider Callout** | | [Click](http://wrcc-in.org/wp/?page_id=2649) |
-|1| Saturday, May 20 | Celery Bog | 3 miles | [Click](RideDetails/wrrtp_week1.md) |
+|1| ~~Saturday, May 20~~  **Sunday, May 21** | Celery Bog | 3 miles | [Click](RideDetails/wrrtp_week1.md) |
 |2| Saturday, May 27 | Celery Bog | 6 miles | [Click](RideDetails/wrrtp_week2.md) |
 |3| Saturday, June 3 | Celery Bog | 6 miles | [Click](RideDetails/wrrtp_week3.md) |
 |4| Saturday, June 10 | Celery Bog | 8 miles | [Click](RideDetails/wrrtp_week4.md) |
